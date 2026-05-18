@@ -15,7 +15,7 @@ NEMO_GUARDRAILS_URL = "http://nemo-guardrails.nemo.svc.cluster.local:7331"
 NIM_URL = "http://nemo-nim-proxy.nemo.svc.cluster.local:8000"
 
 # (Required) Hugging Face Token
-HF_TOKEN = ""
+HF_TOKEN = "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"
 
 # (Optional) To observe training with WandB
 WANDB_API_KEY = ""
